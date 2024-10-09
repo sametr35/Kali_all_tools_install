@@ -5,33 +5,19 @@ I tried to install the most common security tools that are not pre-installed in 
 
 **Usage**
 
-sudo bash Kali_tools.sh
+$_ sudo bash Kali_tools.sh
 
 
 **Available tools**
 
-pspy
-
-SecLists
-
-CrackMapExec
-
-Evil-WinRM
-
-EternalBlue Exploits
-
-FeroxBuster
-
-Impacket
-
-LinPEAS/WinPEAS
-
-BloodHound
-
-Chisel
-
-Pspy
-
-
-
-
+- pspy
+- SecLists
+- CrackMapExec
+- Evil-WinRM
+- EternalBlue Exploits
+- FeroxBuster
+- Impacket
+- LinPEAS/WinPEAS
+- BloodHound
+- Chisel
+- Pspy
