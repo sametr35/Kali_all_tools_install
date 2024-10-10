@@ -21,6 +21,7 @@ $_ sudo bash Kali_tools.sh
 - responder
 - nikto
 - johntheripper
+- Impacket tools
 
 **Privilage Escalation**
 - LinPEAS
