@@ -8,16 +8,27 @@ I tried to install the most common security tools that are not pre-installed in 
 $_ sudo bash Kali_tools.sh
 
 
-**Available tools**
+**Tools**
 
-- pspy
-- SecLists
+- locate
 - CrackMapExec
 - Evil-WinRM
-- EternalBlue Exploits
-- FeroxBuster
+- Gobuster
+- Theharvester
 - Impacket
-- LinPEAS/WinPEAS
 - BloodHound
 - Chisel
-- Pspy
+- responder
+- nikto
+- johntheripper
+
+**Privilage Escalation**
+- LinPEAS
+- WinPEAS
+
+**Wordlists**
+- subdomains-10000.txt
+- usernames.txt
+
+**Revershells**
+- pentest monkey (php reverse shell)
